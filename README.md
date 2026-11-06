@@ -61,9 +61,6 @@ Six raw tables, stored in PostgreSQL and provided as CSV files in `data/`.
 | `order_items` | 27,043 | 26,953 | Products, quantity and price in each order |
 | `returns` | 2,915 | 2,902 | Returned items, reason, refund amount |
 | `marketing_spend` | 168 | 168 | Monthly spend, clicks and new customers by channel |
-
-The raw data is **deliberately messy**, as real company data is: duplicates, mixed date formats, impossible values, outliers and inconsistent spellings.
-
 ---
 
 ## 🛠️ 3. Tools and Technologies Used
