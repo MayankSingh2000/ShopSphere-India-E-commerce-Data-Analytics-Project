@@ -34,8 +34,6 @@ ShopSphere is a simulated Indian online marketplace. Its leadership noticed that
 - Uses **SQL** and **pandas** to answer **12 stakeholder questions**, supported by **16 charts**
 - Converts the findings into **5 prioritised recommendations** worth about **Rs 16.7 lakh per year** (roughly 45% of current annual profit)
 
-> ⚠️ **Note:** The dataset is **synthetic**, simulated to model the operations of an Indian online retailer. The project demonstrates a complete analyst workflow. The figures are not from a real company.
-
 ### 📊 Headline numbers
 | Metric | Value |
 |---|---|
