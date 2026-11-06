@@ -141,6 +141,10 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 ## 💼 6. Stakeholder Questions, Key Findings and Recommendations
 
+### Q0 . KPI'S
+
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/00_kpi's.png?raw=true)
+
 ### 📈 Q1. CEO: Is the business growing, and is it growing profitably?
 
 **🔎 Findings**
@@ -150,7 +154,7 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Find where profit leaks before pushing for more growth.
 
-![Monthly trend](charts/01_monthly_trend.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/01_monthly_trend.png?raw=true)
 
 ---
 
@@ -162,7 +166,7 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Prepare stock and courier capacity before October, plan the biggest marketing push for October to December, and run promotions on weekends.
 
-![Seasonality](charts/02_seasonality.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/02_seasonality.png?raw=true)
 
 ---
 
@@ -176,7 +180,8 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Fix Electronics pricing before pushing more sales, focus marketing on Beauty and Fashion, and reduce Footwear returns.
 
-![Category performance](charts/03_category_performance.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/03_category_performance.png?raw=true)
+
 
 ---
 
@@ -189,7 +194,7 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Remove Electronics from coupon offers, and keep deep coupons such as FLASH30 for high-margin categories like Beauty and Fashion.
 
-![Discount margin heatmap](charts/04_discount_margin_heatmap.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/04_discount_margin_heatmap.png?raw=true)
 
 ---
 
@@ -202,8 +207,8 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Reduce Instagram spend and move part of it to Google Ads. Invest in Email, a referral programme and SEO.
 
-![Channel economics](charts/05_channel_economics.png)
-![Spend vs profit share](charts/06_spend_vs_profit_share.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/05_channel_economics.png?raw=true)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/06_spend_vs_profit_share.png?raw=true)
 
 ---
 
@@ -215,7 +220,7 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Send a second-purchase offer within 30 days, run re-engagement campaigns before October and the July sale, and start a loyalty programme.
 
-![Cohort retention](charts/07_cohort_retention.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/07_cohort_retention.png?raw=true)
 
 ---
 
@@ -228,8 +233,8 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Audit supplier S07, add size charts and fit guides for Footwear and Fashion, and improve product descriptions for Beauty and Books.
 
-![Returns by category and supplier](charts/08_returns_category_supplier.png)
-![Return reasons](charts/09_return_reasons.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/08_returns_category_supplier.png?raw=true)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/09_return_reasons.png?raw=true)
 
 ---
 
@@ -242,8 +247,8 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Move orders for those cities to faster couriers, add delivery-time penalties to the XpressBees contract, and keep XpressBees only in metro cities.
 
-![Delivery vs rating](charts/10_delivery_vs_rating.png)
-![Courier by city](charts/11_courier_city_heatmap.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/10_delivery_vs_rating.png?raw=true)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/11_courier_city_heatmap.png?raw=true)
 
 ---
 
@@ -257,7 +262,7 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Offer a discount for paying online, and confirm COD orders by OTP or WhatsApp before dispatch.
 
-![Payment RTO](charts/12_payment_rto.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/12_payment_rto.png?raw=true)
 
 ---
 
@@ -270,8 +275,8 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Run a win-back campaign for At Risk customers, give Champions loyalty rewards, and send New customers a second-purchase offer.
 
-![RFM segments](charts/13_rfm_segments.png)
-![Segment mix by channel](charts/14_segment_by_channel.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/13_rfm_segments.png?raw=true)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/14_segment_by_channel.png?raw=true)
 
 ---
 
@@ -284,7 +289,7 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **✅ Recommendation:** Fix courier choice in the slow cities and keep investing in the three biggest cities.
 
-![City performance](charts/15_city_performance.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/15_city_performance.png?raw=true)
 
 ---
 
@@ -304,7 +309,7 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 
 **🏁 Conclusion:** The profit problem is **not a lack of sales**. It comes from a few fixable leaks: a defective supplier, loss-making discounts on Electronics, high Footwear returns, and an expensive Instagram channel.
 
-![Impact estimates](charts/16_impact_estimates.png)
+![image alt](https://github.com/MayankSingh2000/ShopSphere-India-E-commerce-Data-Analytics-Project/blob/main/Visualizations/16_impact_estimates.png?raw=true)
 
 ---
 
@@ -348,8 +353,21 @@ shopsphere-ecommerce-analysis/
 
 ---
 
-## 👤 9. Author
+## 👨‍💻 Author
 
-**Your Name**
-📊 Data Analyst
-🔗 [LinkedIn](https://www.linkedin.com/) | 💻 [GitHub](https://github.com/) | 📧 your.email@example.com
+**Mayank Singh |
+Aspiring Data Analyst | SQL | Power BI | Excel | Python**
+
+Passionate about transforming raw data into meaningful insights through data cleaning, exploratory data analysis, visualization, and business reporting.
+
+Currently seeking entry-level Data Analyst opportunities where I can apply my analytical and technical skills to solve real-world business problems.
+
+GitHub: https://github.com/MayankSingh2000
+
+LinkedIn: www.linkedin.com/in/mayank-singh-aaa112135
+
+---
+
+⭐ If you find this project useful, feel free to explore the files, documents and its analytical findings.
+
+**Thank you for visiting!**
