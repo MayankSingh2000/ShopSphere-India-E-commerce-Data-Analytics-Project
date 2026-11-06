@@ -322,7 +322,6 @@ Cleaning was done on **copies** of the tables, with a log of every fix. Empty va
 shopsphere-ecommerce-analysis/
 ├── Shopsphere.ipynb        # Full analysis: cleaning, SQL, EDA, insights
 ├── schema.sql              # Creates the raw tables in PostgreSQL
-├── load_to_postgres.py     # Optional script to bulk-load the CSV files
 ├── data/                   # 6 raw CSV files
 ├── charts/                 # 16 saved charts
 └── README.md
