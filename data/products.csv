@@ -1,0 +1,141 @@
+product_id,product_name,category,sub_category,brand,supplier_id,mrp,cost_price
+P001,PrimeLine Smartphones 1,Electronics,Smartphones,PrimeLine,S07,1010.0,928.85
+P002,Everyday Headphones 2,Electronics,Headphones,TechNova,S07,6690.0,6012.94
+P003,Zenith Smartwatches 3,Electronics,Smartwatches,Aurora,S07,1320.0,1177.45
+P004,Zenith Chargers & Cables 4,Electronic,Chargers & Cables,TechNova,S07,5130.0,4545.93
+P005,TechNova Smartphones 5,Electronics,Smartphones,PrimeLine,S07,3150.0,2709.1
+P006,FlexFit Headphones 6,Electronics,Headphones,Aurora,S14,7190.0,5885.2
+P007,Zenith Smartwatches 7,Electronics,Smartwatches,FlexFit,S03,39690.0,32870.59
+P008,Zenith Chargers & Cables 8,Electronic,Chargers & Cables,Craftly,S05,36140.0,30085.25
+P009,Zenith Smartphones 9,Electronics,Smartphones,UrbanNest,S03,1430.0,1146.84
+P010,Craftly Headphones 10,Electronic,Headphones,PureGlow,S01,2850.0,2615.89
+P011,Everyday Smartwatches 11,Electronics,Smartwatches,Craftly,S11,1170.0,947.93
+P012,Aurora Chargers & Cables 12,Electronics,Chargers & Cables,StrideX,S13,910.0,832.37
+P013,FlexFit Smartphones 13,Electronics,Smartphones,PureGlow,S01,4030.0,3588.96
+P014,Aurora Headphones 14,Electronics,Headphones,UrbanNest,S01,1050.0,850.29
+P015,TechNova Smartwatches 15,Electronic,Smartwatches,Craftly,S13,8030.0,6366.05
+P016,TechNova Chargers & Cables 16,Electronics,Chargers & Cables,Everyday,S13,8630.0,7760.94
+P017,Craftly Smartphones 17,Electronics,Smartphones,Zenith,S14,680.0,606.45
+P018,Zenith Headphones 18,Electronics,Headphones,PrimeLine,S15,20320.0,16169.57
+P019,StrideX Smartwatches 19,Electronics,Smartwatches,UrbanNest,S08,740.0,587.73
+P020,Aurora Chargers & Cables 20,Electronics,Chargers & Cables,FlexFit,S12,20000.0,18187.61
+P021,Aurora Men T-Shirts 1,Fashion,Men T-Shirts,Aurora,S04,560.0,258.95
+P022,PureGlow Women Kurtas 2,Fashion,Women Kurtas,Zenith,S15,630.0,289.9
+P023,Everyday Jeans 3,Fashion,Jeans,Zenith,S10,2060.0,870.67
+P024,PrimeLine Jackets 4,Fashion,Jackets,Aurora,S09,610.0,279.25
+P025,PrimeLine Men T-Shirts 5,Fashion,Men T-Shirts,PrimeLine,S04,830.0,406.29
+P026,FlexFit Women Kurtas 6,Fashion,Women Kurtas,UrbanNest,S09,1630.0,831.83
+P027,Aurora Jeans 7,Fashion,Jeans,StrideX,S08,1530.0,746.56
+P028,Craftly Jackets 8,Fashion,Jackets,FlexFit,S08,3140.0,1567.17
+P029,TechNova Men T-Shirts 9,Fashion,Men T-Shirts,PrimeLine,S13,630.0,290.83
+P030,FlexFit Women Kurtas 10,Fashion,Women Kurtas,FlexFit,S14,540.0,259.58
+P031,PureGlow Jeans 11,Fashion,Jeans,Everyday,S07,940.0,389.67
+P032,UrbanNest Jackets 12,Fashion,Jackets,Aurora,S13,740.0,
+P033,Craftly Men T-Shirts 13,Fashion,Men T-Shirts,Aurora,S02,500.0,253.68
+P034,StrideX Women Kurtas 14,Fashion,Women Kurtas,StrideX,S01,2100.0,1015.62
+P035,UrbanNest Jeans 15,Fashion,Jeans,TechNova,S08,720.0,344.1
+P036,Zenith Jackets 16,Fashion,Jackets,PureGlow,S07,3450.0,1749.82
+P037,FlexFit Men T-Shirts 17,Fashion,Men T-Shirts,Zenith,S08,580.0,249.12
+P038,Zenith Women Kurtas 18,Fashion,Women Kurtas,TechNova,S07,2530.0,1233.61
+P039,Craftly Jeans 19,Fashion,Jeans,Everyday,S05,2790.0,1061.11
+P040,UrbanNest Jackets 20,Fashion,Jackets,PrimeLine,S06,2070.0,855.65
+P041,PrimeLine Running Shoes 1,Footwear,Running Shoes,PureGlow,S06,5230.0,2919.58
+P042,TechNova Casual Shoes 2,Footwear,Casual Shoes,PrimeLine,S10,4250.0,2363.28
+P043,StrideX Sandals 3,Footwear,Sandals,TechNova,S11,730.0,391.7
+P044,PrimeLine Formal Shoes 4,Footwear,Formal Shoes,FlexFit,S05,2670.0,1255.36
+P045,TechNova Running Shoes 5,Footwear,Running Shoes,FlexFit,S04,2240.0,1037.9
+P046,TechNova Casual Shoes 6,Footwear,Casual Shoes,TechNova,S15,4520.0,2195.55
+P047,Zenith Sandals 7,Footwear,Sandals,FlexFit,S12,1320.0,801.22
+P048,Everyday Formal Shoes 8,Footwear,Formal Shoes,PureGlow,S09,3520.0,1795.69
+P049,UrbanNest Running Shoes 9,Footwear,Running Shoes,StrideX,S06,1320.0,754.78
+P050,UrbanNest Casual Shoes 10,Footwear,Casual Shoes,PureGlow,S03,2450.0,1211.93
+P051,Zenith Sandals 11,Footwear,Sandals,Craftly,S10,3320.0,1693.2
+P052,Zenith Formal Shoes 12,Footwear,Formal Shoes,Everyday,S04,4590.0,2129.98
+P053,Everyday Running Shoes 13,Footwear,Running Shoes,Zenith,S04,2310.0,1221.17
+P054,Everyday Casual Shoes 14,Footwear,Casual Shoes,StrideX,S09,4760.0,2553.85
+P055,UrbanNest Sandals 15,Footwear,Sandals,UrbanNest,S07,1020.0,560.67
+P056,TechNova Formal Shoes 16,Footwear,Formal Shoes,Aurora,S04,2270.0,1097.64
+P057,Aurora Running Shoes 17,Footwear,Running Shoes,UrbanNest,S10,2130.0,1058.27
+P058,PrimeLine Casual Shoes 18,Footwear,Casual Shoes,PrimeLine,S13,1270.0,584.96
+P059,PrimeLine Sandals 19,Footwear,Sandals,Aurora,S15,2000.0,1097.26
+P060,Craftly Formal Shoes 20,Footwear,Formal Shoes,StrideX,S09,1250.0,766.88
+P061,Everyday Cookware 1,Home & Kitchen,Cookware,Craftly,S15,1100.0,753.63
+P062,Zenith Storage 2,Home & Kitchen,Storage,Everyday,S01,5250.0,2726.13
+P063,Zenith Bedsheets 3,Home & Kitchen,Bedsheets,UrbanNest,S10,1890.0,977.15
+P064,StrideX Small Appliances 4,Home & Kitchen,Small Appliances,Craftly,S02,390.0,259.06
+P065,Zenith Cookware 5,Home & Kitchen,Cookware,FlexFit,S14,420.0,249.31
+P066,UrbanNest Storage 6,Home & Kitchen,Storage,Craftly,S07,1010.0,720.91
+P067,Craftly Bedsheets 7,Home and Kitchen,Bedsheets,Craftly,S10,610.0,363.37
+P068,FlexFit Small Appliances 8,Home & Kitchen,Small Appliances,FlexFit,S13,260.0,170.24
+P069,Aurora Cookware 9,Home & Kitchen,Cookware,PureGlow,S11,450.0,291.45
+P070,PrimeLine Storage 10,Home & Kitchen,Storage,StrideX,S01,1220.0,617.46
+P071,Craftly Bedsheets 11,Home & Kitchen,Bedsheets,UrbanNest,S10,5150.0,3498.83
+P072,TechNova Small Appliances 12,Home&Kitchen,Small Appliances,UrbanNest,S11,290.0,155.06
+P073,Zenith Cookware 13,Home & Kitchen,Cookware,TechNova,S14,410.0,236.43
+P074,Craftly Storage 14,Home&Kitchen,Storage,StrideX,S14,360.0,209.04
+P075,PrimeLine Bedsheets 15,Home & Kitchen,Bedsheets,UrbanNest,S05,480.0,302.5
+P076,PrimeLine Small Appliances 16,Home & Kitchen,Small Appliances,UrbanNest,S13,1220.0,739.11
+P077,Craftly Cookware 17,Home & Kitchen,Cookware,Everyday,S13,930.0,573.82
+P078,PrimeLine Storage 18,Home&Kitchen,Storage,Zenith,S07,1530.0,835.56
+P079,PrimeLine Bedsheets 19,Home & Kitchen,Bedsheets,Craftly,S10,1070.0,668.57
+P080,PrimeLine Small Appliances 20,Home & Kitchen,Small Appliances,Craftly,S15,1540.0,868.6
+P081,Craftly Skincare 1,Beauty,Skincare,Aurora,S06,630.0,219.83
+P082,PureGlow Haircare 2,Beauty,Haircare,UrbanNest,S13,340.0,116.75
+P083,PrimeLine Makeup 3,Beauty,Makeup,Aurora,S02,720.0,208.64
+P084,Aurora Fragrance 4,Beauty,Fragrance,Aurora,S03,400.0,188.35
+P085,StrideX Skincare 5,Beauty,Skincare,UrbanNest,S01,1100.0,519.95
+P086,TechNova Haircare 6,Beauty,Haircare,Aurora,S10,880.0,419.53
+P087,PureGlow Makeup 7,Beauty,Makeup,FlexFit,S02,820.0,319.99
+P088,PureGlow Fragrance 8,Beauty,Fragrance,TechNova,S15,1540.0,727.08
+P089,Aurora Skincare 9,Beauty,Skincare,PrimeLine,S08,1460.0,648.01
+P090,Aurora Haircare 10,Beauty,Haircare,Craftly,S12,1730.0,
+P091,Craftly Makeup 11,Beauty,Makeup,UrbanNest,S09,2310.0,652.15
+P092,FlexFit Fragrance 12,Beauty,Fragrance,Zenith,S01,1400.0,583.15
+P093,Craftly Skincare 13,Beauty,Skincare,Everyday,S07,1900.0,884.89
+P094,PureGlow Haircare 14,Beauty,Haircare,UrbanNest,S04,720.0,261.01
+P095,Craftly Makeup 15,Beauty,Makeup,UrbanNest,S10,1390.0,400.71
+P096,TechNova Fragrance 16,Beauty,Fragrance,Aurora,S09,580.0,182.17
+P097,Zenith Skincare 17,Beauty,Skincare,PureGlow,S04,2390.0,686.04
+P098,Craftly Haircare 18,Beauty,Haircare,FlexFit,S04,380.0,142.89
+P099,FlexFit Makeup 19,Beauty,Makeup,Everyday,S12,1770.0,567.81
+P100,Craftly Fragrance 20,Beauty,Fragrance,UrbanNest,S04,250.0,84.85
+P101,Zenith Yoga Mats 1,Sports,Yoga Mats,Craftly,S12,640.0,327.93
+P102,PureGlow Dumbbells 2,Sports & Fitness,Dumbbells,PureGlow,S15,3380.0,1989.02
+P103,Zenith Cricket Gear 3,Sports & Fitness,Cricket Gear,Everyday,S06,300.0,183.79
+P104,StrideX Cycling 4,Sports & Fitness,Cycling,TechNova,S06,7310.0,4450.4
+P105,PrimeLine Yoga Mats 5,Sports & Fitness,Yoga Mats,UrbanNest,S05,1930.0,1049.76
+P106,Everyday Dumbbells 6,Sports & Fitness,Dumbbells,,S09,3040.0,1932.67
+P107,Zenith Cricket Gear 7,Sports & Fitness,Cricket Gear,Everyday,S14,4170.0,2371.15
+P108,Everyday Cycling 8,Sports & Fitness,Cycling,UrbanNest,S07,7600.0,4358.23
+P109,Zenith Yoga Mats 9,Sports & Fitness,Yoga Mats,FlexFit,S11,3310.0,
+P110,TechNova Dumbbells 10,Sports & Fitness,Dumbbells,Aurora,S14,470.0,282.87
+P111,PrimeLine Cricket Gear 11,Sports & Fitness,Cricket Gear,Craftly,S14,450.0,263.55
+P112,UrbanNest Cycling 12,Sports,Cycling,PureGlow,S08,2830.0,1683.9
+P113,Everyday Yoga Mats 13,Sports & Fitness,Yoga Mats,FlexFit,S13,870.0,540.31
+P114,FlexFit Dumbbells 14,Sports & Fitness,Dumbbells,TechNova,S14,520.0,340.09
+P115,FlexFit Cricket Gear 15,Sports & Fitness,Cricket Gear,TechNova,S07,980.0,501.29
+P116,Aurora Cycling 16,Sports & Fitness,Cycling,UrbanNest,S04,380.0,215.02
+P117,Craftly Yoga Mats 17,Sports & Fitness,Yoga Mats,Craftly,S01,1900.0,1214.28
+P118,TechNova Dumbbells 18,Sports & Fitness,Dumbbells,FlexFit,S07,4540.0,2639.83
+P119,UrbanNest Cricket Gear 19,Sports,Cricket Gear,Everyday,S02,5500.0,3277.57
+P120,Everyday Cycling 20,Sports & Fitness,Cycling,Craftly,S06,1300.0,658.4
+P121,PrimeLine Fiction 1,Books,Fiction,PrimeLine,S11,340.0,232.36
+P122,Everyday Non-Fiction 2,Books,Non-Fiction,StrideX,S15,720.0,448.28
+P123,PrimeLine Exam Prep 3,Books,Exam Prep,FlexFit,S05,470.0,327.44
+P124,Zenith Fiction 4,Books,Fiction,Zenith,S10,480.0,289.07
+P125,FlexFit Non-Fiction 5,Books,Non-Fiction,Everyday,S04,520.0,332.54
+P126,PureGlow Exam Prep 6,Books,Exam Prep,FlexFit,S08,210.0,
+P127,PrimeLine Fiction 7,Books,Fiction,Everyday,S09,240.0,147.14
+P128,Craftly Non-Fiction 8,Books,Non-Fiction,UrbanNest,S15,220.0,147.66
+P129,UrbanNest Exam Prep 9,Books,Exam Prep,UrbanNest,S08,370.0,237.66
+P130,Aurora Fiction 10,Books,Fiction,,S10,330.0,199.1
+P131,UrbanNest Non-Fiction 11,Books,Non-Fiction,Everyday,S11,660.0,470.68
+P132,StrideX Exam Prep 12,Books,Exam Prep,StrideX,S09,740.0,500.61
+P133,UrbanNest Fiction 13,Books,Fiction,Zenith,S03,350.0,224.02
+P134,FlexFit Non-Fiction 14,Books,Non-Fiction,Zenith,S08,690.0,463.97
+P135,Zenith Exam Prep 15,Books,Exam Prep,Aurora,S10,610.0,405.69
+P136,FlexFit Fiction 16,Books,Fiction,StrideX,S09,160.0,103.98
+P137,Zenith Non-Fiction 17,Books,Non-Fiction,Aurora,S02,320.0,195.89
+P138,Everyday Exam Prep 18,Books,Exam Prep,StrideX,S06,500.0,309.84
+P139,PrimeLine Fiction 19,Books,Fiction,Everyday,S11,180.0,123.94
+P140,Everyday Non-Fiction 20,Books,Non-Fiction,UrbanNest,S07,220.0,140.15
